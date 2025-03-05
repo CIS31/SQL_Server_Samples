@@ -1,5 +1,6 @@
 # SQL_Server_Samples
 
+
 This repository contains essential SQL Server scripts categorized into two main directories:
 
 **SQL\_Server\_Administration**
@@ -12,6 +13,7 @@ This repository contains essential SQL Server scripts categorized into two main 
    - Contains scripts related to stored procedures, data ingestion, and development tasks.
 
 ## Folder Structure and Script Details
+
 
 ### SQL\_Server\_Administration
 
@@ -26,6 +28,7 @@ This repository contains essential SQL Server scripts categorized into two main 
 
 ## How to Use These Scripts
 
+
 ### Running the Scripts
 
 1. Open **SQL Server Management Studio (SSMS)**.
@@ -39,6 +42,7 @@ This repository contains essential SQL Server scripts categorized into two main 
 - **Schedule SQL Jobs** in SQL Server Agent to run maintenance scripts periodically.
 
 ## Additional Notes
+
 
 - Ensure you have proper **permissions** before executing scripts that modify databases.
 - For critical operations like **backups**, verify storage paths and retention policies.
