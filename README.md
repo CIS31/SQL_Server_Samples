@@ -1,7 +1,7 @@
 # SQL_Server_Samples
 
 
-This repository contains essential SQL Server scripts categorized into two main directories:
+This repository holds some of my most frequently used essential SQL Server scripts, organized into two main directories:
 
 **SQL\_Server\_Administration**
 
